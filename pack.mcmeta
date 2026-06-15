@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": {
+      "text": "Fix missing nether and end in world presets which don't include them"
+    },
+    "pack_format": 48
+  }
+}
